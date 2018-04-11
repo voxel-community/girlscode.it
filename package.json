@@ -1,0 +1,20 @@
+{
+  "name": "girlscode.it",
+  "version": "1.0.0",
+  "description": "Sito di GirlsCodeIt",
+  "main": "index.html",
+  "scripts": {
+    "test": "true",
+    "deploy": "surge --project ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/girlscodeit/girlscode.it.git"
+  },
+  "author": "GirlsCodeIt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/girlscodeit/girlscode.it/issues"
+  },
+  "homepage": "https://github.com/girlscodeit/girlscode.it#readme"
+}
