@@ -1,20 +1,29 @@
 {
   "name": "girlscode.it",
   "version": "1.0.0",
-  "description": "Sito di GirlsCodeIt",
-  "main": "index.html",
-  "scripts": {
-    "test": "true",
-    "deploy": "surge --project ."
-  },
+  "description": "Voxel website",
+  "author": "Voxel",
+  "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/girlscodeit/girlscode.it.git"
+    "url": "git+https://github.com/Voxel/girlscode.it.git"
   },
-  "author": "GirlsCodeIt",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/girlscodeit/girlscode.it/issues"
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore ."
   },
-  "homepage": "https://github.com/girlscodeit/girlscode.it#readme"
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "@nuxtjs/bulma": "^1.2.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/eslint-config": "^1.0.1",
+    "@nuxtjs/eslint-module": "^1.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^6.1.0",
+    "eslint-plugin-nuxt": ">=0.4.2"
+  }
 }
