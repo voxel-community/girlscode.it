@@ -91,7 +91,7 @@
                 <h3 class="title is-4">
                   Brand Identity: Parte 1
                 </h3>
-                <p>--</p>
+                <p>Durante il primo incontro di branding ci occuperemo della prima fase di divergenza e convergenza dei processi di branding. Usando appositi tools (moodboard e wordstorm), esploreremo i concetti visivi ed emotivi collegati agli aggettivi che descrivono il brand (divergenza) e individueremo uno abbozzo di stile visivo e comunicativo che saranno alla base della ideazione della forma grafica del logo e della brand identity (convergenza)</p>
               </div>
             </div>
           </div>
@@ -104,7 +104,7 @@
                 <h3 class="title is-4">
                   Brand Identity: Parte 2
                 </h3>
-                <p>--</p>
+                <p>Il secondo incontro è dedicato alla seconda fase di divergenza e convergenza del branding. Basandoci sull'output del primo incontro, elaboreremo diverse proposte di logo per Voxel in modalità brainstorming (divergenza), per poi convergere su una versione a cui uniremo una color palette e una famiglia di font.</p>
               </div>
             </div>
           </div>
