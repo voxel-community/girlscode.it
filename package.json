@@ -1,12 +1,12 @@
 {
   "name": "girlscode.it",
   "version": "1.0.0",
-  "description": "Voxel website",
-  "author": "Voxel",
+  "description": "GirlsCode It website",
+  "author": "GirlsCode It",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Voxel/girlscode.it.git"
+    "url": "git+https://github.com/girlscodeit/girlscode.it.git"
   },
   "scripts": {
     "dev": "nuxt",

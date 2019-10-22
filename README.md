@@ -1,6 +1,6 @@
 # girlscode.it
 
-> Voxel website
+> GirlsCode It website
 
 ## Build Setup
 

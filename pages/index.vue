@@ -4,7 +4,7 @@
       <div class="hero-body">
         <div class="container has-text-centered">
           <h1 class="title is-spaced is-size-2">
-            Voxel
+            GirlsCode It
           </h1>
           <h2 class="subtitle is-size-5">
             Uno spazio femminile nel mondo tech *
@@ -59,14 +59,14 @@
       <div class="hero-body">
         <div class="container has-text-centered">
           <h1 class="title is-1">
-            Voxel Bootcamp
+            Bootcamp
           </h1>
           <h2 class="subtitle is-3">
             dal 7 Novembre 2019 al 4 aprile 2020
           </h2>
           <p>
             Un percorso per imparare e realizzare un sito web, rivolto sia a principianti che esperte. <br><br>
-            Il percorso è strutturato in 3 parti: c’è una prima fase di ideazione dell’identità digitale, una seconda fase di progettazione ed infine una fase di costruzione e pubblicazione del nuovo sito di Voxel.
+            Il percorso è strutturato in 3 parti: c’è una prima fase di ideazione dell’identità digitale, una seconda fase di progettazione ed infine una fase di costruzione e pubblicazione del nuovo sito di GirlsCode It.
           </p>
         </div>
       </div>
@@ -104,7 +104,7 @@
                 <h3 class="title is-4">
                   Brand Identity: Parte 2
                 </h3>
-                <p>Il secondo incontro è dedicato alla seconda fase di divergenza e convergenza del branding. Basandoci sull'output del primo incontro, elaboreremo diverse proposte di logo per Voxel in modalità brainstorming (divergenza), per poi convergere su una versione a cui uniremo una color palette e una famiglia di font.</p>
+                <p>Il secondo incontro è dedicato alla seconda fase di divergenza e convergenza del branding. Basandoci sull'output del primo incontro, elaboreremo diverse proposte di logo in modalità brainstorming (divergenza), per poi convergere su una versione a cui uniremo una color palette e una famiglia di font.</p>
               </div>
             </div>
           </div>
@@ -117,7 +117,7 @@
           Web Design
         </h1>
         <h2 class="subtitle is-5">
-          È la fase di progettazione del sito: dalla strutturazione dei contenuti al posizionamento dei vari elementi in una pagina.          <br> <br>
+          È la fase di progettazione del sito: dalla strutturazione dei contenuti al posizionamento dei vari elementi in una pagina.<br> <br>
         </h2>
         <div class="columns">
           <div class="column has-text-left">
@@ -466,7 +466,7 @@
             Coders
           </h1>
           <p class="subtitle">
-            Sono il cuore di Voxel ❤️
+            Sono il cuore di GirlsCode It ❤️
             <br>Un gruppo di ragazze che sono unite dall'interesse per la tecnologia.
           </p>
           <br>
