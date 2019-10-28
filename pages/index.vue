@@ -66,8 +66,10 @@
           </h2>
           <p>
             Un percorso per imparare e realizzare un sito web, rivolto sia a principianti che esperte. <br><br>
-            Il percorso è strutturato in 3 parti: c’è una prima fase di ideazione dell’identità digitale, una seconda fase di progettazione ed infine una fase di costruzione e pubblicazione del nuovo sito di GirlsCode It.
+            Il percorso è strutturato in 3 parti: c’è una prima fase di ideazione dell’identità digitale, una seconda fase di progettazione ed infine una fase di costruzione e pubblicazione del nuovo sito di GirlsCodeIt.
           </p>
+          <br>
+          <a href="https://www.eventbrite.it/o/girlscodeit-13739528140" class="button is-medium" style="background-color: #F33052; color: white; font-weight: 600; border-radius: 0;" target="_blank">Clicca qui per iscriverti al Bootcamp</a>
         </div>
       </div>
     </section>
@@ -607,7 +609,7 @@
 </template>
 
 <style>
-  .is-primary {
+    .is-primary {
       color: #F33052;
     }
 
