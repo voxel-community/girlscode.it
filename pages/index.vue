@@ -65,7 +65,7 @@
             dal 7 Novembre 2019 al 4 aprile 2020
           </h2>
           <p>
-            Un percorso per imparare e realizzare un sito web, rivolto sia a principianti che esperte. <br><br>
+            Un percorso per imparare a realizzare un sito web, rivolto sia a principianti che esperte. <br><br>
             Il percorso è strutturato in 3 parti: c’è una prima fase di ideazione dell’identità digitale, una seconda fase di progettazione ed infine una fase di costruzione e pubblicazione del nuovo sito di GirlsCodeIt.
           </p>
           <br>
